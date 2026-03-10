@@ -10,10 +10,12 @@ My background is in product design and technology: production planning and opera
 🌱: Python, SQL
 
 
+🔶 Here is where I experiment with product concepts, data projects, and ideas 
+
+
+
 📫: mar.dimitrpl@gmail.com
 
 
 
  ⚡: I have an orange cat 
-
-🙏🏻
