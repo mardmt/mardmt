@@ -1,16 +1,19 @@
-## Hi there 👋
+ Hi there 🫶🏻
 
-<!--
-**mardmt/mardmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Maria, an aspiring product designer based in the Netherlands.
 
-Here are some ideas to get you started:
+I design, develop, analyse based on data, and build thoughtful solutions to everyday problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+My background is in product design and technology: production planning and operations, and I'm currently expanding my skills in ✨_analytics and technology_✨ 
+
+🌱: Python, SQL
+
+
+📫: mar.dimitrpl@gmail.com
+
+
+
+ ⚡: I have an orange cat 
+
+🙏🏻
