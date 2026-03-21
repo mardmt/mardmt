@@ -10,7 +10,7 @@ My background is in product design and technology: production planning and opera
 🌱: Python, SQL
 
 
-🔶 Here is where I experiment with product concepts, data projects, and ideas 
+🔶 Here is where I experiment and grow with product concepts, data projects, and ideas 
 
 
 
