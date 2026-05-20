@@ -1,21 +1,20 @@
- Hi there 🫶🏻
+# Hi, I'm Maria
 
-I'm Maria, an aspiring product designer based in the Netherlands.
+Aspiring Medical Data Analyst based in the Netherlands.
 
-I design, develop, analyse based on data, and build thoughtful solutions to everyday problems.
+I am at the intersection of healthcare 
+and data. 
+
+I come from a technical background in design and technology, 
+and after working closely with experts in the cardiology field, I knew 
+this was the direction I wanted to go.
+
+I do not wait for opportunities 
+— I build them.
+
+Currently working on: Python · SQL · R
+
+Currently building: medical data projects from clinical environments
 
 
-My background is in product design and technology: production planning and operations, and I'm currently expanding intensively my skills in ✨ analytics and technology ✨ 
-
-🌱: Python, SQL
-
-
-🔶 Here is where I experiment and grow with product concepts, data projects, and ideas 
-
-
-
-📫: mar.dimitrpl@gmail.com
-
-
-
- ⚡: I have an orange cat 
+⚡ I have an orange cat
