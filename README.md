@@ -1,6 +1,6 @@
 # Hi, I'm Maria
 
-Aspiring Medical Data Analyst based in the Netherlands.
+Aspiring  Data Analyst based in the Netherlands.
 
 I am at the intersection of healthcare 
 and data. 
