@@ -1,20 +1,15 @@
-# Hi, I'm Maria
+# Hi, I'm Maria! 👋
 
-Aspiring  Data Analyst based in the Netherlands.
+### Aspiring Data Analyst | Healthcare & Technology
+📍 Based in the Netherlands
 
-I am at the intersection of healthcare 
-and data. 
+I work at the intersection of healthcare and data. Coming from a technical background in design and technology, I discovered my passion for data analytics after working closely with experts in the field of cardiology. 
 
-I come from a technical background in design and technology, 
-and after working closely with experts in the cardiology field, I knew 
-this was the direction I wanted to go.
+---
 
-I do not wait for opportunities 
-— I build them.
+### 🚀 What I'm Up To
+* **Currently mastering:** Python • SQL • R
+* **Currently building:** Data projects using real-world clinical and medical datasets
 
-Currently working on: Python · SQL · R
-
-Currently building: medical data projects from clinical environments
-
-
-⚡ I have an orange cat
+### ⚡ Fun Fact
+* 🐱 I have an orange cat!
